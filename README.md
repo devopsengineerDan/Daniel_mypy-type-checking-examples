@@ -1,6 +1,6 @@
 # Static Type Checking in Python - Examples using MyPy
 
-This purpose of this project is to demonstrate Python type annotations and static type checking, using [Mypy](http://mypy-lang.org), for commonly used sitautions - e.g. defing and using functions and classes. It consists of a Python 3 package with 3 modules, each of which demonstrates type annotation for a specific situation:
+This purpose of this project is to demonstrate Python type annotations and static type checking, using [MyPy](http://mypy-lang.org), in common sitautions - e.g. defining and using functions and classes. It consists of a Python 3 package with 3 modules, each of which demonstrates type annotation for a specific situation:
 
 - function definition and usage;
 - class definition and usage; and,
